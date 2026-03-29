@@ -1,8 +1,8 @@
 # Sanatan And Vedic Website
 A fully responsive and modern spiritual website developed for a client based on Vedic and Sanatan Dharma concepts. This project is designed to provide users with information about services, blogs, and spiritual content with a clean and user-friendly interface.
 
-# Live Website
-🔗 https://sanatanandvedic.com
+# Live Website:
+  http://anantyogafoundation.com
 
 # Features
 -Fully Responsive Design (Mobile + Desktop)
